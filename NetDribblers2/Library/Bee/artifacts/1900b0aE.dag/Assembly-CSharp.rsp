@@ -347,6 +347,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/CameraFollow.cs"
 "Assets/CameraSwitch.cs"
+"Assets/CameraSwitch2.cs"
 "Assets/MoveBall.cs"
 -langversion:9.0
 
